@@ -22,4 +22,6 @@ CRUD기능만 들어있습니다.
 4.html을 열고 GoLive(vscode 익스텐션)로 키면 됩니다.
 ```
 
-![alt text](1.png) ![alt text](2.png) ![alt text](3.png)
+<img width="1458" alt="1" src="https://github.com/user-attachments/assets/0a07d383-f3e7-4b79-9fac-a984617aca16">
+<img width="1458" alt="1" src="https://github.com/user-attachments/assets/f7cf90e6-80a2-4062-a88a-94cc5075205d">
+<img width="1458" alt="1" src="https://github.com/user-attachments/assets/13dcc50d-5aa9-45d4-bf00-39822b8c3c93">
